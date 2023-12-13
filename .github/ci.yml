@@ -82,4 +82,5 @@ jobs:
 
           push: true
 
-          tags: ghcr.io/clara-aparicio/tos:latest
+          tags: ghcr.io/clara-aparicio/tos:latest 
+            
